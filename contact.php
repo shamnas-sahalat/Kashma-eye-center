@@ -1,5 +1,6 @@
 <?php
-//get data from form  
+//get data from form
+echo "shamnas";
 $name = $_POST['name'];
 $email= $_POST['email'];
 $phone=$_POST['phone'];
